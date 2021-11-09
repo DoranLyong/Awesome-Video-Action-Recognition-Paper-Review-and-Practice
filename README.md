@@ -1,1 +1,1 @@
-# Awesom Video Action Recognition Paper Review & Code Practice
+# Awesome Video Action Recognition Paper Review & Code Practice
