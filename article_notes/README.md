@@ -52,7 +52,13 @@ The following paper lists are what I did or will read, and they might not cover 
 
 ## Conference
 
-CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS 
+CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR
+
+
+
+### ICLR2022
+
+> 1. Blurs Make Results Clearer: ```Spatial Smoothings``` to Improve Accuracy, Uncertainty, and Robustness, ICLR2022(in review) :heart: :last_quarter_moon:  [[paper](https://arxiv.org/abs/2105.12639v1)] [[code](https://github.com/xxxnell/spatial-smoothing)]
 
 
 
