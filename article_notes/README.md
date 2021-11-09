@@ -52,7 +52,7 @@ The following paper lists are what I did or will read, and they might not cover 
 
 ## Conference
 
-CVPR, ECCV, ICCV, WACV, ICPR, BMVC
+CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS 
 
 
 
@@ -126,6 +126,12 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC
 
 > 1. What Have We Learned From Deep Representations for Action Recognition?, CVPR2018 [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Feichtenhofer_What_Have_We_CVPR_2018_paper.html)] [[page](https://feichtenhofer.github.io/)] [[3rd src](https://feichtenhofer.github.io/pubs/Feichtenhofer_Actions_FVT_2017.pdf)] [[supp](http://feichtenhofer.github.io/action_vis.pdf?utm_source=catalyzex.com)]
 > 2. ```Shift```: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions, CVPR2018 :heart::last_quarter_moon:  [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Shift_A_Zero_CVPR_2018_paper.html)] [[code](https://paperswithcode.com/paper/shift-a-zero-flop-zero-parameter-alternative)]
+
+
+
+### NeurIPS2018
+
+> 1. Constructing Fast Network through Deconstruction of Convolution, NeurIPS2018 (for ```learnable``` ```shift```) :heart::last_quarter_moon: [[paper](https://proceedings.neurips.cc/paper/2018/hash/9719a00ed0c5709d80dfef33795dcef3-Abstract.html)] [[code](https://paperswithcode.com/paper/constructing-fast-network-through)]
 
 
 
