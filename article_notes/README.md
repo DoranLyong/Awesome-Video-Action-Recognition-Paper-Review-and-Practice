@@ -52,13 +52,19 @@ The following paper lists are what I did or will read, and they might not cover 
 
 ## Conference
 
-CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR
+CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR 
 
 
 
 ### ICLR2022
 
 > 1. Blurs Make Results Clearer: ```Spatial Smoothings``` to Improve Accuracy, Uncertainty, and Robustness, ICLR2022(in review) :heart: :last_quarter_moon:  [[paper](https://arxiv.org/abs/2105.12639v1)] [[code](https://github.com/xxxnell/spatial-smoothing)]
+
+
+
+### NeurIPS2021
+
+> 1. ```Task-Agnostic``` Undesirable Feature Deactivation Using ```Out-of-Distribution``` Data, NeurIPS2021  :heart: :last_quarter_moon:  [paper] [[code](https://github.com/kaist-dmlab/TAUFE)] [[news](http://www.aitimes.kr/news/articleView.html?idxno=22895)]
 
 
 
@@ -69,12 +75,30 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR
 
 
 
+### ICCV2021
+
+> 1. Learning Action Completeness From Points for ```Weakly-Supervised``` Temporal Action Localization, ICCV2021 :last_quarter_moon: [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lee_Learning_Action_Completeness_From_Points_for_Weakly-Supervised_Temporal_Action_Localization_ICCV_2021_paper.html)] [[code](https://paperswithcode.com/paper/learning-action-completeness-from-points-for)]
+
+
+
+### AAAI2021 
+
+> 1. ```Weakly-supervised``` Temporal Action Localization by ```Uncertainty``` Modeling, AAAI2021  :last_quarter_moon: [[paper](https://arxiv.org/abs/2006.07006)] [[code](https://paperswithcode.com/paper/background-modeling-via-uncertainty)]
+
+
+
+### ACPR2021 
+
+> 1. Subject Adaptive ```EEG```-based Visual Recognition, ACPR2021 :heart: :last_quarter_moon:  [[paper](https://arxiv.org/abs/2110.13470)] [[code](https://paperswithcode.com/paper/subject-adaptive-eeg-based-visual-recognition)]
+
+
+
 ### CVPR2020
 
 > 1. 1st Comprehensive Tutorial on Video modeling, CVPR2020 tutorial [[page](https://bryanyzhu.github.io/videomodeling.github.io/)]
 > 2. [CVPR2020 tutorial](https://cvpr2020.thecvf.com/program/tutorials); Visual Recognition for Images, Video, and 3D / Large Scale Holistic Video Understanding / A Comprehensive Tutorial on Video Modeling / 
-> 3. X3D: Expanding Architectures for Efficient Video Recognition, CVPR2020 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Feichtenhofer_X3D_Expanding_Architectures_for_Efficient_Video_Recognition_CVPR_2020_paper.html)] [[code](https://paperswithcode.com/paper/x3d-expanding-architectures-for-efficient)] [[3rd code](https://reposhub.com/python/deep-learning/kkahatapitiya-X3D-Multigrid.html)]
-> 4. Future Video Synthesis with Object Motion Prediction, CVPR2020 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Wu_Future_Video_Synthesis_With_Object_Motion_Prediction_CVPR_2020_paper.html)] [[code](https://paperswithcode.com/paper/future-video-synthesis-with-object-motion)]
+> 3. X3D: Expanding Architectures for ```Efficient``` Video Recognition, CVPR2020 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Feichtenhofer_X3D_Expanding_Architectures_for_Efficient_Video_Recognition_CVPR_2020_paper.html)] [[code](https://paperswithcode.com/paper/x3d-expanding-architectures-for-efficient)] [[3rd code](https://reposhub.com/python/deep-learning/kkahatapitiya-X3D-Multigrid.html)]
+> 4. Future ```Video Synthesis``` with Object Motion Prediction, CVPR2020 [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Wu_Future_Video_Synthesis_With_Object_Motion_Prediction_CVPR_2020_paper.html)] [[code](https://paperswithcode.com/paper/future-video-synthesis-with-object-motion)]
 > 5. ```Gate-Shift``` Network for Video Action Recognition, CVPR2020 :last_quarter_moon: [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Sudhakaran_Gate-Shift_Networks_for_Video_Action_Recognition_CVPR_2020_paper.html)] [[code](https://paperswithcode.com/paper/gate-shift-networks-for-video-action)]
 
 
@@ -93,7 +117,13 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR
 
 ### ICPR2020
 
-> 1. Learning Group Activities from ```Skeletons``` without Individual ```Action Labels``` [[paper](https://ieeexplore.ieee.org/document/9413195)] [[code](https://github.com/fabiozappo/SkeletonGroupActivityRecognition)] [[video](https://underline.io/lecture/12516-2894---learning-group-activities-from-skeletons-without-individual-action-labels)]
+> 1. Learning Group Activities from ```Skeletons``` without Individual ```Action Labels```, ICPR2020 [[paper](https://ieeexplore.ieee.org/document/9413195)] [[code](https://github.com/fabiozappo/SkeletonGroupActivityRecognition)] [[video](https://underline.io/lecture/12516-2894---learning-group-activities-from-skeletons-without-individual-action-labels)]
+
+
+
+### AAAI2020
+
+> 1. ```Background Suppression``` Networks for ```Weakly-supervised``` Temporal Action Localization, AAAI2020 :last_quarter_moon:  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6793)] [[code](https://paperswithcode.com/paper/background-suppression-network-for-weakly)]
 
 
 
