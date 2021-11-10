@@ -131,7 +131,7 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR
 ### CVPR2018
 
 > 1. What Have We Learned From Deep Representations for Action Recognition?, CVPR2018 [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Feichtenhofer_What_Have_We_CVPR_2018_paper.html)] [[page](https://feichtenhofer.github.io/)] [[3rd src](https://feichtenhofer.github.io/pubs/Feichtenhofer_Actions_FVT_2017.pdf)] [[supp](http://feichtenhofer.github.io/action_vis.pdf?utm_source=catalyzex.com)]
-> 2. ```Shift```: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions, CVPR2018 :heart::last_quarter_moon:  [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Shift_A_Zero_CVPR_2018_paper.html)] [[code](https://paperswithcode.com/paper/shift-a-zero-flop-zero-parameter-alternative)]
+> 2. ```Shift```: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions, CVPR2018 :heart::last_quarter_moon:  [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Shift_A_Zero_CVPR_2018_paper.html)] [[code](https://paperswithcode.com/paper/shift-a-zero-flop-zero-parameter-alternative)] [(youtube)[https://youtu.be/op9IBox_TTc?t=2544]]
 
 
 
