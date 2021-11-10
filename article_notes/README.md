@@ -154,7 +154,7 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 
 ### ECCV2018 
 
-> 1. DYAN: A Dynamical Atoms-Based for Video Prediction, ECCV2018 [[paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.html)] [[code][https://github.com/liuem607/DYAN]]
+> 1. DYAN: A Dynamical Atoms-Based for Video Prediction, ECCV2018 [[paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.html)] [[code]https://github.com/liuem607/DYAN]
 
 
 
