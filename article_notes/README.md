@@ -77,7 +77,8 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 
 ### ICCV2021
 
-> 1. Learning Action Completeness From Points for ```Weakly-Supervised``` Temporal Action Localization, ICCV2021 :last_quarter_moon: [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lee_Learning_Action_Completeness_From_Points_for_Weakly-Supervised_Temporal_Action_Localization_ICCV_2021_paper.html)] [[code](https://paperswithcode.com/paper/learning-action-completeness-from-points-for)]
+> 1. Multi-Modality Learning from Videos and Beyond, ICCV2021 tutorial [[page](https://bryanyzhu.github.io/mm-iccv2021/)]
+> 2. Learning Action Completeness From Points for ```Weakly-Supervised``` Temporal Action Localization, ICCV2021 :last_quarter_moon: [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lee_Learning_Action_Completeness_From_Points_for_Weakly-Supervised_Temporal_Action_Localization_ICCV_2021_paper.html)] [[code](https://paperswithcode.com/paper/learning-action-completeness-from-points-for)]
 
 
 
