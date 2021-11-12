@@ -85,7 +85,7 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 
 ### AAAI2021 
 
-> 1. ```Weakly-supervised``` Temporal Action Localization by ```Uncertainty``` Modeling, AAAI2021  :last_quarter_moon: [[paper](https://arxiv.org/abs/2006.07006)] [[code](https://paperswithcode.com/paper/background-modeling-via-uncertainty)]
+> 1. ```Weakly-supervised``` Temporal Action Localization by ```Uncertainty``` Modeling, AAAI2021(with ```out-of-distribution;OOD```)  :last_quarter_moon: [[paper](https://arxiv.org/abs/2006.07006)] [[code](https://paperswithcode.com/paper/background-modeling-via-uncertainty)]
 
 
 
@@ -125,7 +125,7 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 
 ### AAAI2020
 
-> 1. ```Background Suppression``` Networks for ```Weakly-supervised``` Temporal Action Localization, AAAI2020 :last_quarter_moon:  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6793)] [[code](https://paperswithcode.com/paper/background-suppression-network-for-weakly)]
+> 1. ```Background Suppression``` Networks for ```Weakly-supervised``` Temporal Action Localization, AAAI2020 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6793)] [[code](https://paperswithcode.com/paper/background-suppression-network-for-weakly)]
 
 
 
@@ -150,7 +150,7 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 
 ### BMVC2019
 
-> 1. ```Learnable``` Gated Temporal ```Shift``` Module for Deep Video Inpainting, BMVC2019 :heart: :last_quarter_moon: [[paper](https://arxiv.org/abs/1907.01131)] [[code](https://paperswithcode.com/paper/learnable-gated-temporal-shift-module-for)]
+> 1. ```Learnable``` Gated Temporal ```Shift``` Module for Deep Video Inpainting, BMVC2019 :heart:  [[paper](https://arxiv.org/abs/1907.01131)] [[code](https://paperswithcode.com/paper/learnable-gated-temporal-shift-module-for)]
 
 
 
