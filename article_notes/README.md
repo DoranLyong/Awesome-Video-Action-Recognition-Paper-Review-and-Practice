@@ -44,7 +44,7 @@ The following paper lists are what I did or will read, and they might not cover 
 
 ## Survey 
 
-> 1. Video Action Understanding, IEEE Access 2021 :last_quarter_moon: [[paper](https://ieeexplore.ieee.org/abstract/document/9548074)]
+> 1. Video Action Understanding, IEEE Access 2021​ [[paper](https://ieeexplore.ieee.org/abstract/document/9548074)]
 > 2. A Comprehensive Study of Deep Video Action Recognition, arXiv2020 [[paper](https://arxiv.org/abs/2012.06567v1)] [[code](https://paperswithcode.com/paper/a-comprehensive-study-of-deep-video-action)] [[3rd src](https://bryanyzhu.github.io/videomodeling.github.io/)]
 > 3. Exploring Temporal Information for Improved Video Understanding, arXiv2019 :last_quarter_moon: [[paper](https://arxiv.org/abs/1905.10654)] [[code](https://github.com/bryanyzhu/Hidden-Two-Stream?utm_source=catalyzex.com)]
 
@@ -132,6 +132,7 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 ### ICCV2019 
 
 > 1. TSM: Temporal ```Shift``` Module for Efficient Video Understanding, ICCV2019 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Lin_TSM_Temporal_Shift_Module_for_Efficient_Video_Understanding_ICCV_2019_paper.html)] [[code](https://paperswithcode.com/paper/temporal-shift-module-for-efficient-video)] [[youtube](https://youtu.be/4BwXOcLqrGk)]
+> 2. 4-Connected Shift Residual Networks, ICCV2019 :heart: :last_quarter_moon:  [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/NeurArch/Brown_4-Connected_Shift_Residual_Networks_ICCVW_2019_paper.pdf)] [[code](https://paperswithcode.com/paper/4-connected-shift-residual-networks)] 
 
 
 
