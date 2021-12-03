@@ -32,37 +32,22 @@ Or depending on what kind of **actors** and **annotations** :
 ## Table of Contents (ongoing)
 
 * Statistics 
-* Survey 
 * Conferences 
   * 2021 update 
   
-    
 * Others 
 
 ---
 
 ## Statistics 
 
-| Conference  | Link | #Total | Video Understanding | Action Classification | Action Recognition | Activity Recognition | Motion Prediction |
-|:-:           |:-:   |:-:|:-:|:-:|:-:|:-:|:-:           |
-| CVPR2021 | [click](https://openaccess.thecvf.com/CVPR2021) |  |  |  |  |  |  |
-| ICCV2021 | [click](https://openaccess.thecvf.com/ICCV2021) |  |  |  |  |  |  |
-| CVPR2020 | [click](https://openaccess.thecvf.com/CVPR2020) |  |  |  |  |  |  |
-| ICCV2019 | [click](https://openaccess.thecvf.com/ICCV2019) |  |  |  |  |  |  |
-| CVPR2019 | [click](https://openaccess.thecvf.com/CVPR2019) |  |  |  |  |  |  |
-| CVPR2018 | [click](https://openaccess.thecvf.com/CVPR2018) |  |  |  |  |  |  |
-| ICCV2017 | [click](https://openaccess.thecvf.com/ICCV2017) |  |  |  |  |  |  |
-| CVPR2017 | [click](https://openaccess.thecvf.com/CVPR2017) |  |  |  |  |  |  |
+| Video Datset | Year | Action Classes | Action Instances | Actors | Annotations | Theme/Purpose |
+|:-:           |:-:   |:-:|:-:|:-:|:-:|:-:           |
+| HAA500 | 2020.9 | 500 | ~10,000 | **H** | **C**, **T** | course-grained atomic actions |
 
 
 
 ---
-
-## Survey 
-
-> 1. d
-
-
 
 ## Conference
 
@@ -72,5 +57,5 @@ ICCV
 
 ### ICCV2021
 
-> 1. HAA500: Human-Centric ```Atomic Action``` Dataset with Curated Videos, ICCV2021, [**AR**, **H**, **C** ] [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chung_HAA500_Human-Centric_Atomic_Action_Dataset_With_Curated_Videos_ICCV_2021_paper.pdf)] [[homepage](https://www.cse.ust.hk/haa/)] [[3rd src](https://paperswithcode.com/paper/haa500-human-centric-atomic-action-dataset)] [[info](https://paperswithcode.com/dataset/haa500)] 
+> 1. HAA500: Human-Centric ```Atomic Action``` Dataset with Curated Videos, ICCV2021, [**AR**, **TAP** ] [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chung_HAA500_Human-Centric_Atomic_Action_Dataset_With_Curated_Videos_ICCV_2021_paper.pdf)] [[homepage](https://www.cse.ust.hk/haa/)] [[3rd src](https://paperswithcode.com/paper/haa500-human-centric-atomic-action-dataset)] [[info](https://paperswithcode.com/dataset/haa500)] 
 
