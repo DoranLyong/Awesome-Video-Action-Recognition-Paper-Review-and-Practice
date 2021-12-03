@@ -21,7 +21,6 @@ The following paper lists are what I did or will read, and they might not cover 
   * 2017 update 
   * 2016 update
 * Others 
-* Datasets 
 
 ---
 
@@ -79,7 +78,7 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 
 > 1. Multi-Modality Learning from Videos and Beyond, ICCV2021 tutorial [[page](https://bryanyzhu.github.io/mm-iccv2021/)]
 > 2. Learning Action Completeness From Points for ```Weakly-Supervised``` Temporal Action Localization, ICCV2021 :last_quarter_moon: [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lee_Learning_Action_Completeness_From_Points_for_Weakly-Supervised_Temporal_Action_Localization_ICCV_2021_paper.html)] [[code](https://paperswithcode.com/paper/learning-action-completeness-from-points-for)]
-> 2. Emerging Properties in Self-Supervised Vision Transformers, ICCV2021:heart: :last_quarter_moon:  [[paper](https://arxiv.org/abs/2104.14294)] [[code](https://github.com/facebookresearch/dino)] [[blog](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/)] [[Youtube](https://www.youtube.com/watch?v=h3ij3F3cPIk)]
+> 3. Emerging Properties in Self-Supervised Vision Transformers, ICCV2021:heart: :last_quarter_moon:  [[paper](https://arxiv.org/abs/2104.14294)] [[code](https://github.com/facebookresearch/dino)] [[blog](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/)] [[Youtube](https://www.youtube.com/watch?v=h3ij3F3cPIk)]
 
 
 
