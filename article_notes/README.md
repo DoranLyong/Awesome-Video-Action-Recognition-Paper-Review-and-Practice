@@ -181,6 +181,12 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 
 
 
+### Others2018
+
+> 1. Action Recognition with ```Dynamic Image``` Networks, IEEE T-PAMI2018 [[paper](https://arxiv.org/abs/1612.00738)] [[code](https://github.com/hbilen/dynamic-image-nets?utm_source=catalyzex.com)]
+
+
+
 ### ICCV2017
 
 > 1. What Actions are Needed for Understanding Human Action in Videos?, ICCV2017 [[paper](https://openaccess.thecvf.com/content_iccv_2017/html/Sigurdsson_What_Actions_Are_ICCV_2017_paper.html)] [[code](https://paperswithcode.com/paper/what-actions-are-needed-for-understanding)]
@@ -195,4 +201,5 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 
 ### CVPR2016
 
-> 1. Dynamic Image Networks for Action Recognition, CVPR2016 [[paper](https://ieeexplore.ieee.org/document/7780700)] [[code](https://github.com/DoranLyong/dynamic-images-for-action-recognition)]
+> 1. ```Dynamic Image``` Networks for Action Recognition, CVPR2016 [[paper](https://ieeexplore.ieee.org/document/7780700)] [[code](https://github.com/DoranLyong/dynamic-images-for-action-recognition)]
+
