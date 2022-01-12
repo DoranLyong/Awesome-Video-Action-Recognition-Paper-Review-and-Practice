@@ -33,7 +33,7 @@ Or depending on what kind of **actors** and **annotations** :
 ## Table of Contents (ongoing)
 
 * [Statistics](#Statistics) 
-* [Conferences & Journals](#Conferences and Journals) 
+* [Conferences-Journals](#Conferences-Journals ) 
   * 2021 update 
   * 2019 update
 * Others 
@@ -53,7 +53,7 @@ Or depending on what kind of **actors** and **annotations** :
 
 ---
 
-## Conferences and Journals 
+## Conferences-Journals 
 
 >  ICCV, CVPR, 
 
