@@ -33,7 +33,7 @@ Or depending on what kind of **actors** and **annotations** :
 ## Table of Contents (ongoing)
 
 * [Statistics](#Statistics) 
-* [Conferences & Journals](#Conferences & Journals) 
+* [Conferences & Journals](#Conferences and Journals) 
   * 2021 update 
   * 2019 update
 * Others 
@@ -53,7 +53,7 @@ Or depending on what kind of **actors** and **annotations** :
 
 ---
 
-## Conferences & Journals 
+## Conferences and Journals 
 
 >  ICCV, CVPR, 
 
@@ -63,23 +63,23 @@ Or depending on what kind of **actors** and **annotations** :
 
 ### ICCV2021
 
-> 1. HAA500: Human-Centric ```Atomic Action``` Dataset with Curated Videos, ICCV2021, [**AR**, **TAP**] [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chung_HAA500_Human-Centric_Atomic_Action_Dataset_With_Curated_Videos_ICCV_2021_paper.pdf)] [[homepage](https://www.cse.ust.hk/haa/)] [[3rd src](https://paperswithcode.com/paper/haa500-human-centric-atomic-action-dataset)] [[info](https://paperswithcode.com/dataset/haa500)] 
+> 1. ```HAA500```: Human-Centric ```Atomic Action``` Dataset with Curated Videos, ICCV2021, [**AR**, **TAP**] [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chung_HAA500_Human-Centric_Atomic_Action_Dataset_With_Curated_Videos_ICCV_2021_paper.pdf)] [[homepage](https://www.cse.ust.hk/haa/)] [[3rd src](https://paperswithcode.com/paper/haa500-human-centric-atomic-action-dataset)] [[info](https://paperswithcode.com/dataset/haa500)] 
 
 
 
 ### CVPR2021
 
-> 1. ```Spoken Moments```: Learning Joint Audio-Visual Representations From Video Descriptions, CVPR2021, [**AR**] [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Monfort_Spoken_Moments_Learning_Joint_Audio-Visual_Representations_From_Video_Descriptions_CVPR_2021_paper.html)] [[homepage](http://moments.csail.mit.edu/)] [[3rd src](https://paperswithcode.com/paper/spoken-moments-learning-joint-audio-visual)] [info]
+> 1. ```Spoken Moments```: Learning Joint ```Audio-Visual``` Representations From Video Descriptions, CVPR2021, [**AR**] [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Monfort_Spoken_Moments_Learning_Joint_Audio-Visual_Representations_From_Video_Descriptions_CVPR_2021_paper.html)] [[homepage](http://moments.csail.mit.edu/)] [[3rd src](https://paperswithcode.com/paper/spoken-moments-learning-joint-audio-visual)] [info]
 
 
 
 ### PAMI2021
 
-> 1. ```Multi-Moments in Time```: Learning and Interpreting Models for Multi-Action Video Understanding, IEEE PAMI2021, [**AR**] [[paper](https://ieeexplore.ieee.org/abstract/document/9609554?casa_token=O24AhVQ-h_wAAAAA:62O8a9r2QMVDR3jbuWznk15jJFaojjDfXQEa1QuqzZyuaaEVSg_rqnjjh9tUe5zwWn3a1LtssVA)] [[homepage](http://moments.csail.mit.edu/)] [[free paper](https://arxiv.org/pdf/1911.00232.pdf)] [[3rd src](https://paperswithcode.com/paper/multi-moments-in-time-learning-and)] [info]
+> 1. ```Multi-Moments in Time```: Learning and Interpreting Models for ```Multi-Action``` Video Understanding, IEEE PAMI2021, [**AR**] [[paper](https://ieeexplore.ieee.org/abstract/document/9609554?casa_token=O24AhVQ-h_wAAAAA:62O8a9r2QMVDR3jbuWznk15jJFaojjDfXQEa1QuqzZyuaaEVSg_rqnjjh9tUe5zwWn3a1LtssVA)] [[homepage](http://moments.csail.mit.edu/)] [[free paper](https://arxiv.org/pdf/1911.00232.pdf)] [[3rd src](https://paperswithcode.com/paper/multi-moments-in-time-learning-and)] [info]
 
 
 
 ### PAMI2019
 
-> 1. ```Moments in Time``` Dataset: One Million Videos for Event Understanding, IEEE PAMI2019, [**AR**] [[paper](https://ieeexplore.ieee.org/abstract/document/8651343?casa_token=WH9EuHBydqAAAAAA:MZvy3WTceUuqx6kSltyqpcako4J8w8Ih_vLg4DsUCSBJ4Wsy07ZWK3jt-GLwpDRAxLd2G1eFtXE)] [[homepage](http://moments.csail.mit.edu/)] [[free paper](http://moments.csail.mit.edu/TPAMI.2019.2901464.pdf)] [[3rd src](https://paperswithcode.com/paper/moments-in-time-dataset-one-million-videos)] [[info](https://paperswithcode.com/dataset/moments-in-time)] 
+> 1. ```Moments in Time``` Dataset: ```One Million Videos``` for Event Understanding, IEEE PAMI2019, [**AR**] [[paper](https://ieeexplore.ieee.org/abstract/document/8651343?casa_token=WH9EuHBydqAAAAAA:MZvy3WTceUuqx6kSltyqpcako4J8w8Ih_vLg4DsUCSBJ4Wsy07ZWK3jt-GLwpDRAxLd2G1eFtXE)] [[homepage](http://moments.csail.mit.edu/)] [[free paper](http://moments.csail.mit.edu/TPAMI.2019.2901464.pdf)] [[3rd src](https://paperswithcode.com/paper/moments-in-time-dataset-one-million-videos)] [[info](https://paperswithcode.com/dataset/moments-in-time)] 
 
