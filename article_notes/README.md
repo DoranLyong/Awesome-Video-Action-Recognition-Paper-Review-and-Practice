@@ -94,6 +94,7 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 ### AAAI2021 
 
 > 1. ```Weakly-supervised``` Temporal Action Localization by ```Uncertainty``` Modeling, AAAI2021(with ```out-of-distribution;OOD```) [[paper](https://arxiv.org/abs/2006.07006)] [[code](https://paperswithcode.com/paper/background-modeling-via-uncertainty)]
+> 1. Learnable ```Dynamic Temporal Pooling``` for Time Series Classification, AAAI2021:heart:  [[paper](https://arxiv.org/abs/2104.02577)] [[code](https://github.com/donalee/DTW-Pool)]
 
 
 
@@ -116,6 +117,7 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 ### ECCV2020 
 
 > 1. RubiksNet: ```Learnable ``` ```3D-Shift``` for Efficient Video Action Recognition, ECCV2020 [[paper](https://stanfordvl.github.io/rubiksnet-site//assets/eccv20.pdf)] [[code](https://github.com/StanfordVL/RubiksNet)] [[page](https://stanfordvl.github.io/rubiksnet-site/)] [[youtube](https://youtu.be/NSnx4ueEQow)]
+> 1. ```Context-Aware``` RCNN: A Baseline for ```Action Detection``` in Videos, ECCV2020 [[paper](https://arxiv.org/abs/2007.09861)] [[code](https://github.com/MCG-NJU/CRCNN-Action)]
 
 
 
@@ -127,7 +129,7 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 
 ### ICPR2020
 
-> 1. Learning Group Activities from ```Skeletons``` without Individual ```Action Labels```, ICPR2020 [[paper](https://ieeexplore.ieee.org/document/9413195)] [[code](https://github.com/fabiozappo/SkeletonGroupActivityRecognition)] [[video](https://underline.io/lecture/12516-2894---learning-group-activities-from-skeletons-without-individual-action-labels)]
+> 1. Learning ```Group Activities``` from ```Skeletons``` without Individual ```Action Labels```, ICPR2020 [[paper](https://ieeexplore.ieee.org/document/9413195)] [[code](https://github.com/fabiozappo/SkeletonGroupActivityRecognition)] [[video](https://underline.io/lecture/12516-2894---learning-group-activities-from-skeletons-without-individual-action-labels)]
 
 
 
@@ -141,6 +143,7 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 
 > 1. TSM: Temporal ```Shift``` Module for Efficient Video Understanding, ICCV2019 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Lin_TSM_Temporal_Shift_Module_for_Efficient_Video_Understanding_ICCV_2019_paper.html)] [[code](https://paperswithcode.com/paper/temporal-shift-module-for-efficient-video)] [[youtube](https://youtu.be/4BwXOcLqrGk)]
 > 2. 4-Connected Shift Residual Networks, ICCV2019 :heart: :last_quarter_moon:  [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/NeurArch/Brown_4-Connected_Shift_Residual_Networks_ICCVW_2019_paper.pdf)] [[code](https://paperswithcode.com/paper/4-connected-shift-residual-networks)] 
+> 2. Resource ```Efficient``` 3D Convolutional Neural Networks, ICCV2019 [[paper](https://arxiv.org/abs/1904.02422)] [[code](https://github.com/okankop/Efficient-3DCNNs)]
 
 
 
@@ -163,9 +166,16 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 
 
 
+### Others2019
+
+> 1. You Only Watch Once: A ```Unified CNN Architecture``` for Real-Time ```Spatiotemporal Action Localization```, [[paper](https://arxiv.org/abs/1911.06644)] [[code](https://github.com/wei-tim/YOWO)]
+
+
+
 ### ECCV2018 
 
 > 1. DYAN: A Dynamical Atoms-Based for Video Prediction, ECCV2018 [[paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.html)] [[code](https://github.com/liuem607/DYAN)]
+> 1. Actor-Centric Relation Network, ECCV2018 [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Chen_Sun_Actor-centric_Relation_Network_ECCV_2018_paper.pdf)] [[code](https://paperswithcode.com/paper/actor-centric-relation-network)]
 
 
 
