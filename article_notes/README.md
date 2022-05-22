@@ -15,6 +15,7 @@ The following paper lists are what I did or will read, and they might not cover 
 * Statistics 
 * Survey 
 * Conferences 
+  * 2022 update 
   * 2021 update 
   * 2020 update 
   * 2018 update 
@@ -28,6 +29,8 @@ The following paper lists are what I did or will read, and they might not cover 
 
 | Conference  | Link | #Total | Video Understanding | Action Classification | Action Recognition | Activity Recognition | Motion Prediction |
 |:-:           |:-:   |:-:|:-:|:-:|:-:|:-:|:-:           |
+| CVPR2022 | [click](https://cvpr2022.thecvf.com/accepted-papers) | | | | | | |
+| ICLR2022 | [click](https://papers.labml.ai/lists/iclr_2022/?sort_by=num_tweets&dsc=0) | | | | | | |
 | CVPR2021 | [click](https://openaccess.thecvf.com/CVPR2021) |  |  |  |  |  |  |
 | ICCV2021 | [click](https://openaccess.thecvf.com/ICCV2021) |  |  |  |  |  |  |
 | CVPR2020 | [click](https://openaccess.thecvf.com/CVPR2020) |  |  |  |  |  |  |
@@ -60,6 +63,7 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 ### ICLR2022
 
 > 1. Blurs Make Results Clearer: ```Spatial Smoothings``` to Improve Accuracy, Uncertainty, and Robustness, ICLR2022(in review) :heart: :last_quarter_moon:  [[paper](https://arxiv.org/abs/2105.12639v1)] [[code](https://github.com/xxxnell/spatial-smoothing)]
+> 2. UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning, ICLR2022 [[paper](https://arxiv.org/abs/2201.04676)] [[code](https://github.com/Sense-X/UniFormer?utm_source=catalyzex.com)] [[youtube](https://youtu.be/7Q_Yfvsm15k)]
 
 
 
@@ -144,6 +148,7 @@ CVPR, ECCV, ICCV, WACV, ICPR, BMVC, NeurIPS, ICLR, AAAI, ACPR
 > 1. TSM: Temporal ```Shift``` Module for Efficient Video Understanding, ICCV2019 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Lin_TSM_Temporal_Shift_Module_for_Efficient_Video_Understanding_ICCV_2019_paper.html)] [[code](https://paperswithcode.com/paper/temporal-shift-module-for-efficient-video)] [[youtube](https://youtu.be/4BwXOcLqrGk)]
 > 2. 4-Connected Shift Residual Networks, ICCV2019 :heart: :last_quarter_moon:  [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/NeurArch/Brown_4-Connected_Shift_Residual_Networks_ICCVW_2019_paper.pdf)] [[code](https://paperswithcode.com/paper/4-connected-shift-residual-networks)] 
 > 2. Resource ```Efficient``` 3D Convolutional Neural Networks, ICCV2019 [[paper](https://arxiv.org/abs/1904.02422)] [[code](https://github.com/okankop/Efficient-3DCNNs)]
+> 4. SlowFast Networks for Video Recognition, ICCV2019 [[paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Feichtenhofer_SlowFast_Networks_for_Video_Recognition_ICCV_2019_paper.html)] [[code](https://github.com/facebookresearch/SlowFast)]
 
 
 
